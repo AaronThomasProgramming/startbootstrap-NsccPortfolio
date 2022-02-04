@@ -10246,3 +10246,23 @@ form .row:first-child .floating-label-form-group {
 #profileImage {
   border-radius: 50%;
 }
+
+#button1 , #button2 {
+  display:inline-block;
+  /* additional code */
+}
+
+#button1 {
+  background-color: #0d74e7;
+  border-color: #0d74e7;
+  /* color: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  cursor: pointer; */
+}
+
+#link1 {
+  color: white;
+}
