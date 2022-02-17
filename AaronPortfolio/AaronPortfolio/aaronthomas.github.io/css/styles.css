@@ -10244,6 +10244,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 #profileImage {
+  height: 500px;
+  width: auto;
   border-radius: 50%;
 }
 
