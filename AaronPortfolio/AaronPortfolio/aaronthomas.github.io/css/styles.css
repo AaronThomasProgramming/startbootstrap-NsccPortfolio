@@ -10246,7 +10246,7 @@ form .row:first-child .floating-label-form-group {
 #profileImage {
   height: 500px;
   width: auto;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 #button1 , #button2 {
