@@ -10268,3 +10268,7 @@ form .row:first-child .floating-label-form-group {
 #link1 {
   color: white;
 }
+
+.bolded { font-weight: bold; }
+
+.normal { font-weight: normal; }
